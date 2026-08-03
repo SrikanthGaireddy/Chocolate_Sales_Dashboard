@@ -4,6 +4,14 @@ An end-to-end business intelligence dashboard built to analyze global sales perf
 
 ## Dashboard Preview
 ![Dashboard Overview](Dashboard.png.png)
+![INDIA SALES](INDIA_Sales.png)
+![AUSTRALIA Sales](Australia_Sales.png)
+![CANADA SALES](CANADA_Sales.png)
+![NEW ZEALAND SALES](NEWZEALAND_Sales.png)
+![UK SALES](UK_Sales.png)
+![USA SALES](USA_Sales.png)
+![Top person SALES](Top_person_Sales.png)
+![Top product SALES](Top_product_Sales.png)
 
 
 
