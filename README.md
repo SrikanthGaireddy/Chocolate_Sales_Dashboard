@@ -23,5 +23,5 @@ An end-to-end business intelligence dashboard built to analyze global sales perf
 * **Version Control:** Git & GitHub
 
 ## How to Use
-1. Clone the repository.
-2. Open the `.pbix` file in Power BI Desktop to interact with the filters and date slicers.
+
+Open the `.pbix` file in Power BI Desktop to interact with the filters and date slicers.
