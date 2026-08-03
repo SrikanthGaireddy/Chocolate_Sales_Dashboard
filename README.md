@@ -4,6 +4,16 @@ An end-to-end business intelligence dashboard built to analyze global sales perf
 
 ## Dashboard Preview
 ![Dashboard Overview](Dashboard.png.png)
+![INDIA SALES](INDIA Sales.png)
+![AUSTRALIA Sales](Australia Sales.png)
+![CANADA SALES](CANADA Sales.png)
+![NEW ZEALAND SALES](NEW ZEALAND Sales.png)
+![UK SALES](UK Sales.png)
+![USA SALES](USA Sales.png)
+![Top person SALES](Top person Sales.png)
+![Top product SALES](Top product Sales.png)
+
+
 
 ## Key Performance Indicators (KPIs)
 * **Total Revenue:** $124M
